@@ -5,5 +5,5 @@ This is version 3.
 Git has a mutable index called stage.
 This is version 4.
 
-Git tracks changes.
+Git tracks changes of files.
 This is version 5.
