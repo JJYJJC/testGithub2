@@ -7,3 +7,5 @@ This is version 4.
 
 Git tracks changes of files.
 This is version 5.
+
+This sentence will be deleted.
