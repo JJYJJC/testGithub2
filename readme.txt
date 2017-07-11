@@ -11,3 +11,5 @@ This is version 5.
 This sentence will be deleted.
 
 Greating a new branch in quick.
+
+Greating a new branch is quick & simple.
