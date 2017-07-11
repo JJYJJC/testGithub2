@@ -46,4 +46,6 @@ git stash list
 git stash apply
 git stash drop
 
+git branch -D feature-vulcan
+
 
