@@ -21,3 +21,5 @@ Greating a new branch in quick AND simple.
 Greating a new branch is quick and simple.
 
 This is --no-ff merge test.
+
+This is the fix bug 101 test.
