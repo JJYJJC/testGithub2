@@ -12,4 +12,11 @@ This sentence will be deleted.
 
 Greating a new branch in quick.
 
+<<<<<<< HEAD
 Greating a new branch is quick & simple.
+=======
+Greating a new branch in quick AND simple.
+>>>>>>> feature1
+
+Greating a new branch is quick and simple.
+
