@@ -20,3 +20,11 @@ git reflog
 
 git checkout -- readme.txt
 git reset HEAD readme.txt
+
+ssh-keygen -t rsa -C "youremail@example.com"
+git remote -v
+git remote rm origin
+git remote add origin git@github.com:michaelliao/learngit.git
+git push -u origin master
+git push origin master
+
